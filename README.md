@@ -1,1 +1,1 @@
-react프로젝트에 PWA 적용한 일기장
+react에 PWA 적용한 일기장
